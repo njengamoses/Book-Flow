@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370446131440",
+    "project_id": "book-flow-676ae",
+    "storage_bucket": "book-flow-676ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370446131440:android:a881464efe96942c7f2235",
+        "android_client_info": {
+          "package_name": "com.example.book_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFsQjoIpmzI1aAruqI6Htjojyu_-xh690"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
